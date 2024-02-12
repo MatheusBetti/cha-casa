@@ -7,7 +7,7 @@ html, body {
     background-color: #E4E4E4;
 }
 
-@media(max-width: 1080px) { 
+@media(max-width: 768px) { 
     .titulo__mensagem{
         font-size: 16px;
     }
